@@ -1,6 +1,6 @@
 # AJ
 I'm a beginner in the world of programming and technology, eager to learn and grow. Here's a bit about me:</br>
-• Proficient in Python, JS, C and C++. Currently learning ReactJS .</br>
+• Proficient in C, C++, Java, Python and many other tech stack.</br>
 • Open to collaborate.</br>
 # Contact
 voidxcf24@proton.me</br>
